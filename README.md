@@ -9,7 +9,7 @@
 
 Meu nome é Vitor, Sou desenvolvedor Front-end (Web-Mobile), com conhecimento e experiência em Vue.js e Flutter.
 
-- :mortar_board: Sistemas de Informação na **UFU**
+- :mortar_board: Sistemas de Informação na **Universidade Federal de Uberlândia**
 - :office_worker: Desenvolvedor Front-end na **Nagro**
 - :zap: Conhecimentos: Vue.js, Flutter, JavaScript, TypeScript, Docker, entre outras.
 - :books: Estudando React.js e Node.js
